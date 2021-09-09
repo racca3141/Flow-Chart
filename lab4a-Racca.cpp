@@ -29,4 +29,6 @@ int main(){
         cout << "You got it!";        
     } else
         cout << "Too high.";
+    
+    return 0;
 }

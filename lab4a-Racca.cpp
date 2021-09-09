@@ -5,7 +5,6 @@
 // Code the given flowchart from the assignment.
 #include <iostream>
 #include <string>
-#include <iostream>
 #include <cstdlib>
 #include <ctime>
 
